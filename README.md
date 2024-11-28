@@ -60,10 +60,10 @@ flutter test
 ## Project Structure
 Each project in this repository follows a clean and maintainable structure. The key directories and files are as follows:
 
-**lib/**: Contains the main Flutter application code.
-**assets/**: Stores assets such as images, fonts, and JSON files.
-**test/**: Contains unit and widget tests.
-**pubspec.yaml**: The configuration file that lists dependencies and project settings.
+- **lib/**: Contains the main Flutter application code.
+- **assets/**: Stores assets such as images, fonts, and JSON files.
+- **test/**: Contains unit and widget tests.
+- **pubspec.yaml**: The configuration file that lists dependencies and project settings.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Ensure that your contributions align with the repository's coding standards and guidelines.
