@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731931779581",
+    "project_id": "trendify-admin-4a18d",
+    "storage_bucket": "trendify-admin-4a18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731931779581:android:6782f3b84279c10a247994",
+        "android_client_info": {
+          "package_name": "com.example.trendify_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKq34CZo4j7HCarzi8V1yJ-GMP5ScFNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
