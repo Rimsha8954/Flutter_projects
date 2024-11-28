@@ -69,11 +69,11 @@ Each project in this repository follows a clean and maintainable structure. The 
 Contributions are welcome! If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Ensure that your contributions align with the repository's coding standards and guidelines.
 
 ### To Contribute:
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Open a pull request.
+- Fork the repository.
+-  Create a new branch (git checkout -b feature-name).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-name).
+- Open a pull request.
 ## License
 This repository is open-source and available under the MIT License.
 
