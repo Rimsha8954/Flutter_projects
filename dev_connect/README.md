@@ -56,6 +56,14 @@ Follow these steps to set up and run **Dev_Connect** locally:
    ```bash
    flutter run
    ```
+
+   ## 📸 Screenshots
+
+Showcase your app’s functionality with visuals!  
+Add images here for the **Home Page**, **Projects Section**, **Contact Me Form**, and **Custom Drawer**.
+
+![Portfolio](https://github.com/Rimsha8954/Flutter_projects/blob/main/dev_connect/Untitled%20design.png)  
+
    # 📚 Firebase Configuration
 
 ### Enable Firebase Authentication:
