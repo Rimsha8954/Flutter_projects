@@ -40,7 +40,7 @@ Follow these steps to set up and run **Dev_Connect** locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rimsha/Dev_Connect.git
+   git clone https://github.com/Rimsha8954/Dev_Connect.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -89,7 +89,7 @@ For inquiries or collaboration, reach out via:
 
 - ✉️ Email: [rimshaashraf802@gmail.com]
 - 💻 GitHub: [Rimsha's GitHub Profile](https://github.com/Rimsha8954)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rimshaashrafcoding/)
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rimshaashrafcoding/)
 
 ---
 
