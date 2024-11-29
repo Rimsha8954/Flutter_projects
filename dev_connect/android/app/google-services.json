@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "Connect Your Firebase Account to Your Project and Download google_services.json",
+    "project_id": "Connect Your Firebase Account to Your Project and Download google_services.json",
+    "storage_bucket": "Connect Your Firebase Account to Your Project and Download google_services.json"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "Connect Your Firebase Account to Your Project and Download google_services.json",
+        "android_client_info": {
+          "package_name": "com.example.dev_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "Connect Your Firebase Account to Your Project and Download google_services.json"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
