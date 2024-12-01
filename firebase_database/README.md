@@ -2,7 +2,6 @@
 
 Manage your employee records effortlessly with this **Flutter app** powered by **Firebase Firestore**. Add new employees, view their details on the dashboard, and experience a smooth and user-friendly interface!  
 
----
 
 ## 🏗️ App Overview  
 
@@ -12,7 +11,6 @@ A comprehensive list of employees fetched from Firebase Firestore, displayed in 
 🔹 **Add Employee Screen**  
 Click the **➕ Add Employee** button to open a sleek form. Fill in the required details, hit **Submit**, and see the dashboard update instantly with the new employee's information!  
 
----
 
 ## 🌟 Key Features  
 
@@ -25,7 +23,6 @@ Add new employee details, and the dashboard updates automatically.
 ✨ **User-Friendly Design**  
 A modern, minimal UI makes managing employee data simple and efficient.  
 
----
 
 ## 🚀 Getting Started  
 
@@ -79,7 +76,7 @@ lib/
 ├── services/              # Handles all Firebase-related operations
 │   └── firebase_service.dart
 ```
----
+
 
 ## 🌐 Firebase Highlights
  - Firestore Integration:
@@ -112,8 +109,6 @@ Email: rimshaashraf802@gmail.com
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and modify the code!
-
----
 
 
 ## 🌟 Let’s Build Together
