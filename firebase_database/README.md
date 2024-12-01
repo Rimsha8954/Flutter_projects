@@ -27,11 +27,6 @@ A modern, minimal UI makes managing employee data simple and efficient.
 
 ---
 
-## 📸 Sneak Peek  
-*(Add screenshots of your app here to showcase its design and functionality.)*  
-
----
-
 ## 🚀 Getting Started  
 
 ### Prerequisites  
@@ -83,7 +78,9 @@ lib/
 │   └── add_employee.dart  # Screen for adding new employee details
 ├── services/              # Handles all Firebase-related operations
 │   └── firebase_service.dart
-``` 
+```
+---
+
 ## 🌐 Firebase Highlights
  - Firestore Integration:
    The app uses Firebase Firestore for secure, cloud-based storage.
@@ -115,6 +112,9 @@ Email: rimshaashraf802@gmail.com
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and modify the code!
+
+---
+
 
 ## 🌟 Let’s Build Together
 If you find this project helpful, don’t forget to ⭐ star the repository! Your support means a lot. Happy coding! 🎉
