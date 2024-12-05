@@ -37,13 +37,11 @@ A sleek and modern Flutter application featuring a **custom navigation bar** imp
 
 ## 🌄 Screenshots
 
-> *(Add screenshots of your app here for better visualization)*
+![HomeScreen]((https://github.com/Rimsha8954/Image_data/blob/main/HomeScreen.jpg))
+![UsersScreen](https://github.com/Rimsha8954/Image_data/blob/main/UsersScreen.jpg)
+![MessageScreen](https://github.com/Rimsha8954/Image_data/blob/main/MessageScreen.jpg)
+![CounterScreen](https://github.com/Rimsha8954/Image_data/blob/main/CounterScreen.jpg)
 
-### Example Layouts:
-- **Home Page**
-- **Users Page**
-- **Message Page**
-- **Counter Page**
 
 ---
 
