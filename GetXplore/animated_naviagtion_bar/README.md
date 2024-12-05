@@ -59,7 +59,7 @@ Before running the project, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rimsha/flutter-navigation-bar.git
+   git clone https://github.com/Rimsha8954/flutter-navigation-bar.git
    ```
 
 2. Navigate to the project folder:
@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### 📥 Download
 
-[Click here to download the full project](https://github.com/Rimsha8954/Flutter_projects/GetXplore/animated_naviagtion_bar)  
+[Click here to download the full project](GetXplore/animated_naviagtion_bar)  
 *(Ensure your repository URL is correct)*
 
 ---
