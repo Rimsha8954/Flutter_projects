@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### 📥 Download
 
-[Click here to download the full project](GetXplore/animated_naviagtion_bar)  
+[Click here to download the full project](https://github.com/Rimsha8954/Flutter_projects/archive/refs/heads/main.zip)  
 *(Ensure your repository URL is correct)*
 
 ---
