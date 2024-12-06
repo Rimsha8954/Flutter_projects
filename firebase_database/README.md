@@ -107,9 +107,6 @@ Developed with ❤️ by Rimsha.
 GitHub: Rimsha8954
 Email: rimshaashraf802@gmail.com
 
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify the code!
-
 
 ## 🌟 Let’s Build Together
 If you find this project helpful, don’t forget to ⭐ star the repository! Your support means a lot. Happy coding! 🎉
