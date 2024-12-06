@@ -99,12 +99,6 @@ For inquiries or collaboration, reach out via:
 - 💻 GitHub: [Rimsha's GitHub Profile](https://github.com/Rimsha8954)
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rimshaashrafcoding/)
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ```bash
 You can save this as a `README.md` file and replace placeholders like `[your email]` and `[Your LinkedIn Profile]` with your actual details. Let me know if you need any further help! 😊
 ```
