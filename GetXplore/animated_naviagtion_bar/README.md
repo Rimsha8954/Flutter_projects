@@ -119,11 +119,6 @@ This project uses the following Flutter packages:
 **Rimsha**  
 GitHub: [Rimsha](https://github.com/Rimsha8954)  
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
