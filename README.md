@@ -90,11 +90,6 @@ Make sure your contributions align with the repository's coding standards!
 
 ---
 
-## 📜 **License**  
-
-This repository is open-source under the **MIT License**. 📝  
-
----
 
 ## 📧 **Contact**  
 
