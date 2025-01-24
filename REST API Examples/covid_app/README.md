@@ -13,15 +13,11 @@ This project is a **Covid-19 Tracker App** built using Flutter. It fetches real-
 
 ## Screenshots
 
-### Splash Screen
-![Splash Screen](https://github.com/Rimsha8954/Image_data/blob/main/splashScreen.jpg)
-
-### Main Screen
-![WorldStats Screen](https://github.com/Rimsha8954/Image_data/blob/main/worldStatsScreen.jpg)
-
-### Splash Screen
-![CountriesList](https://github.com/Rimsha8954/Image_data/blob/main/countriesList.jpg)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/Rimsha8954/Image_data/blob/main/worldStatsScreen.jpg" alt="CountriesList Screen" width="300"/>
+  <img src="https://github.com/Rimsha8954/Image_data/blob/main/splashScreen.jpg" alt="Splash Screen" width="300"/>
+  <img src="https://github.com/Rimsha8954/Image_data/blob/main/countriesList.jpg" alt="WorldStats Screen" width="300"/>
+</div>
 
 ---
 ## Installation
